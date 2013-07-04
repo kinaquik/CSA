@@ -1,0 +1,1 @@
+avrdude -p m8535 -c usbasp -U flash:v:main.hex:r
